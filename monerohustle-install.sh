@@ -30,5 +30,5 @@ cd .. &&
 
 chmod +x executor.sh savewallet.sh executes/main.sh executes/primary.sh &&
 
-screen -S tf2 /var/new/MoneroHustle/monerohustle-first-start.sh
+screen -S tf2 /var/new/MoneroHustlePersonal/monerohustle-first-start.sh
 
